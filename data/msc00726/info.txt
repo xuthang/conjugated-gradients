@@ -1,0 +1,13 @@
+%%MatrixMarket matrix coordinate real symmetric
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Boeing/msc00726
+% name: Boeing/msc00726
+% [SYMMETRIC TEST MATRIX FROM MSC/NASTRAN BC4F8.OUT2]
+% id: 357
+% date: 1995
+% author: R. Grimes
+% ed: T. Davis
+% fields: title A name id date author ed kind
+% kind: structural problem
+%-------------------------------------------------------------------------------

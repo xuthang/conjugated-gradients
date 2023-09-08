@@ -1,0 +1,16 @@
+%%MatrixMarket matrix coordinate real symmetric
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Botonakis/thermomech_TK
+% name: Botonakis/thermomech_TK
+% [FEM problem, temperature and deformation of a steel cylinder]
+% id: 2258
+% date: 2009
+% author: I. Botonakis
+% ed: T. Davis
+% fields: name title A id date author ed kind notes
+% kind: thermal problem
+%-------------------------------------------------------------------------------
+% notes:
+% TC and TK are for temperature, dM and dK for deformation
+%-------------------------------------------------------------------------------

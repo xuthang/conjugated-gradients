@@ -1,0 +1,13 @@
+%%MatrixMarket matrix coordinate real symmetric
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/GHS_psdef/apache2
+% name: GHS_psdef/apache2
+% [SPD matrix (finite difference 3D) from APACHE small]
+% id: 1423
+% date: 2006
+% author: 
+% ed: N. Gould, Y. Hu, J. Scott
+% fields: name title A id date author ed kind
+% kind: structural problem
+%-------------------------------------------------------------------------------
